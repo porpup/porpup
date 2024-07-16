@@ -6,27 +6,27 @@ I am a Web Developer
 
 With a background in dance and athletics, my approach to Full Stack Development is dynamic and results-oriented. Expertise in various programming languages and Agile, Scrum methodologies enhances my ability to deliver exceptional outcomes. Driven by the pursuit of new challenges, I am committed to continuous improvement and eager to contribute to innovative projects for professional growth.
 
-*   🌍  I'm based in Montréal, Canada
-*   ✉️  You can contact me at [porpup@hotmail.com](mailto:porpup@hotmail.com)
+*   🌍  I'm based in <b>Montréal, Canada</b>
+*   ✉️  You can contact me at <b>[porpup@hotmail.com](mailto:porpup@hotmail.com)</b>
   
   <a href="https://www.github.com/porpup" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/github/followers/porpup?logo=github&style=for-the-badge&color=22c55e&labelColor=134e4a" />
   </a>
   
-  ### My Skills 
-<p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" />
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" />
-  </a>
-  <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" />
-  </a>
-</p>
+   ### My Skills:
+  <p align="left">
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" />
+    </a>
+    <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" />
+    </a>
+    <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" />
+    </a>
+  </p>
                     
-  ### My Socials              
+  ### My Socials:              
   <p align="left">
     <a href="https://www.facebook.com/shyryayev/" target="_blank" rel="noreferrer">
       <picture>
@@ -44,14 +44,15 @@ With a background in dance and athletics, my approach to Full Stack Development 
     </a>
   </p>
   
-  ### My GitHub Stats
-  <a href="http://www.github.com/porpup"><img src="https://github-readme-stats.vercel.app/api?username=porpup&show_icons=true&hide=contribs&count_private=true&title_color=facc15&text_color=ffffff&icon_color=22c55e&bg_color=134e4a&hide_border=true&show_icons=true" alt="porpup's GitHub stats" />
+  ### My GitHub Stats:
+  <a href="http://www.github.com/porpup">
+    <img src="https://github-readme-stats.vercel.app/api?username=porpup&show_icons=true&hide=contribs&count_private=true&title_color=facc15&text_color=ffffff&icon_color=22c55e&bg_color=134e4a&hide_border=true&show_icons=true" alt="porpup's GitHub stats" />
+  </a>
+  <a href="https://github.com/porpup" align="left">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=porpup&langs_count=10&title_color=facc15&text_color=ffffff&icon_color=22c55e&bg_color=134e4a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
   </a>
   
-  <a href="https://github.com/porpup" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=porpup&langs_count=10&title_color=facc15&text_color=ffffff&icon_color=22c55e&bg_color=134e4a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
-  </a>
-  
-  ### Top Repositories
+  ### Top Repositories:
   <div width="100%" align="center">
     <a href="https://github.com/porpup/lamy_construction_website" align="left">
       <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=porpup&repo=lamy_construction_website&title_color=facc15&text_color=ffffff&icon_color=22c55e&bg_color=134e4a&hide_border=true&locale=en" />
@@ -60,6 +61,7 @@ With a background in dance and athletics, my approach to Full Stack Development 
       <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=porpup&repo=Free_Jokes_React_App&title_color=facc15&text_color=ffffff&icon_color=22c55e&bg_color=134e4a&hide_border=true&locale=en" />
     </a>
   </div>
+  
   <br />
   <br />
   <br />
@@ -67,8 +69,9 @@ With a background in dance and athletics, my approach to Full Stack Development 
   <br />
   <br />
   <br />
-<div width="100%" align="center">
-  <a href="https://github.com/porpup/Hockey_Website" align="left">
-    <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=porpup&repo=Hockey_Website&title_color=facc15&text_color=ffffff&icon_color=22c55e&bg_color=134e4a&hide_border=true&locale=en" />
-  </a>
-</div>
+  
+  <div width="100%" align="center">
+    <a href="https://github.com/porpup/Hockey_Website" align="left">
+      <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=porpup&repo=Hockey_Website&title_color=facc15&text_color=ffffff&icon_color=22c55e&bg_color=134e4a&hide_border=true&locale=en" />
+    </a>
+  </div>
