@@ -55,6 +55,9 @@ With a background in dance and athletics, my approach to Full Stack Development 
     <a href="https://github.com/porpup/lamy_construction_website" align="left">
       <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=porpup&repo=lamy_construction_website&title_color=facc15&text_color=ffffff&icon_color=22c55e&bg_color=134e4a&hide_border=true&locale=en" />
     </a>
+    <a href="https://github.com/porpup/Free_Jokes_React_App" align="right">
+      <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=porpup&repo=Free_Jokes_React_App&title_color=facc15&text_color=ffffff&icon_color=22c55e&bg_color=134e4a&hide_border=true&locale=en" />
+    </a>
   </div>
   <br />
   <br />
@@ -63,3 +66,8 @@ With a background in dance and athletics, my approach to Full Stack Development 
   <br />
   <br />
   <br />
+<div width="100%" align="center">
+  <a href="https://github.com/porpup/Hockey_Website" align="left">
+    <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=porpup&repo=Hockey_Website&title_color=facc15&text_color=ffffff&icon_color=22c55e&bg_color=134e4a&hide_border=true&locale=en" />
+  </a>
+</div>
