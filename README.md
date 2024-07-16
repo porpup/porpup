@@ -1,4 +1,4 @@
-My name is Oleksandr Shyryayev ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+Hello World! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 ===========================================================================================================================================
 
 I am a Web Developer
@@ -34,13 +34,6 @@ With a background in dance and athletics, my approach to Full Stack Development 
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" />
       </picture>
     </a>
-    <a href="https://www.github.com/porpup" target="_blank" rel="noreferrer">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
-        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
-      </picture>
-    </a>
     <a href="https://www.linkedin.com/in/oleksandr-shyryayev-398550255/" target="_blank" rel="noreferrer">
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
@@ -57,7 +50,7 @@ With a background in dance and athletics, my approach to Full Stack Development 
   <a href="https://github.com/porpup" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=porpup&langs_count=10&title_color=facc15&text_color=ffffff&icon_color=22c55e&bg_color=134e4a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
   </a>
   
-  <b>Top Repositories</b>
+  ### Top Repositories
   <div width="100%" align="center">
     <a href="https://github.com/porpup/lamy_construction_website" align="left">
       <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=porpup&repo=lamy_construction_website&title_color=facc15&text_color=ffffff&icon_color=22c55e&bg_color=134e4a&hide_border=true&locale=en" />
