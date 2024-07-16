@@ -7,12 +7,12 @@ I am a Web Developer
 With a background in dance and athletics, my approach to Full Stack Development is dynamic and results-oriented. Expertise in various programming languages and Agile, Scrum methodologies enhances my ability to deliver exceptional outcomes. Driven by the pursuit of new challenges, I am committed to continuous improvement and eager to contribute to innovative projects for professional growth.
 
 *   🌍  I'm based in Montréal, Canada
-*   ✉️  You can contact me at [porpup@hotmail.com](mailto:porpup@hotmail.com)
+  
   <a href="https://www.github.com/porpup" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/github/followers/porpup?logo=github&style=for-the-badge&color=22c55e&labelColor=134e4a" />
   </a>
   
-  ### Skills 
+  ### My Skills 
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" />
@@ -25,7 +25,7 @@ With a background in dance and athletics, my approach to Full Stack Development 
   </a>
 </p>
                     
-  ### Socials              
+  ### My Socials              
   <p align="left">
     <a href="https://www.facebook.com/shyryayev/" target="_blank" rel="noreferrer">
       <picture>
