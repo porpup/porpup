@@ -9,7 +9,7 @@ With a background in dance and athletics, my approach to Full Stack Development 
 *   🌍  I'm based in <b>Montréal, Canada</b>
 *   ✉️  You can contact me at <b>[porpup@hotmail.com](mailto:porpup@hotmail.com)</b>
   
-  <a href="https://www.github.com/porpup" target="_blank" rel="noreferrer">
+  <a href="https://github.com/porpup?tab=followers" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/github/followers/porpup?logo=github&style=for-the-badge&color=22c55e&labelColor=134e4a" />
   </a>
   
