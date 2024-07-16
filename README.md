@@ -1,4 +1,4 @@
-Hello World! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+My name is Oleksandr Shyryayev ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 ===========================================================================================================================================
 
 I am a Web Developer
@@ -7,6 +7,7 @@ I am a Web Developer
 With a background in dance and athletics, my approach to Full Stack Development is dynamic and results-oriented. Expertise in various programming languages and Agile, Scrum methodologies enhances my ability to deliver exceptional outcomes. Driven by the pursuit of new challenges, I am committed to continuous improvement and eager to contribute to innovative projects for professional growth.
 
 *   🌍  I'm based in Montréal, Canada
+*   ✉️  You can contact me at [porpup@hotmail.com](mailto:porpup@hotmail.com)
   
   <a href="https://www.github.com/porpup" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/github/followers/porpup?logo=github&style=for-the-badge&color=22c55e&labelColor=134e4a" />
