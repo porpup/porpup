@@ -45,27 +45,20 @@ With a background in dance and athletics, my approach to Full Stack Development 
 </p>
   
 ### My GitHub Stats:
-<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
-  <a href="http://www.github.com/porpup" style="flex: 1; margin-bottom: 20px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=porpup&show_icons=true&hide=contribs&count_private=true&title_color=facc15&text_color=ffffff&icon_color=22c55e&bg_color=134e4a&hide_border=true&show_icons=true" alt="porpup's GitHub stats" />
-  </a>
-  <a href="https://github.com/porpup" style="flex: 1; margin-bottom: 20px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=porpup&langs_count=10&title_color=facc15&text_color=ffffff&icon_color=22c55e&bg_color=134e4a&hide_border=true&locale=en&custom_title=Top%20%Languages&layout=compact" alt="Top Languages" />
-  </a>
-</div>
+<a href="http://www.github.com/porpup">
+  <img src="https://github-readme-stats.vercel.app/api?username=porpup&show_icons=true&hide=contribs&count_private=true&title_color=facc15&text_color=ffffff&icon_color=22c55e&bg_color=134e4a&hide_border=true&show_icons=true" alt="porpup's GitHub stats" />
+</a>
+<a href="https://github.com/porpup">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=porpup&langs_count=10&title_color=facc15&text_color=ffffff&icon_color=22c55e&bg_color=134e4a&hide_border=true&locale=en&custom_title=Top%20%Languages&layout=compact" alt="Top Languages" />
+</a>
 
 ### Top Repositories:
-<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
-  <a href="https://github.com/porpup/lamy_construction_website" style="flex: 1; margin-bottom: 20px;">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=porpup&repo=lamy_construction_website&title_color=facc15&text_color=ffffff&icon_color=22c55e&bg_color=134e4a&hide_border=true&locale=en" />
-  </a>
-  <a href="https://github.com/porpup/Free_Jokes_React_App" style="flex: 1; margin-bottom: 20px;">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=porpup&repo=Free_Jokes_React_App&title_color=facc15&text_color=ffffff&icon_color=22c55e&bg_color=134e4a&hide_border=true&locale=en" />
-  </a>
-</div>
-
-<div style="display: flex; flex-wrap: wrap; justify-content: center;">
-  <a href="https://github.com/porpup/Hockey_Website" style="flex: 1; margin-bottom: 20px;">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=porpup&repo=Hockey_Website&title_color=facc15&text_color=ffffff&icon_color=22c55e&bg_color=134e4a&hide_border=true&locale=en" />
-  </a>
-</div>
+<a href="https://github.com/porpup/lamy_construction_website">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=porpup&repo=lamy_construction_website&title_color=facc15&text_color=ffffff&icon_color=22c55e&bg_color=134e4a&hide_border=true&locale=en" />
+</a>
+<a href="https://github.com/porpup/Free_Jokes_React_App">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=porpup&repo=Free_Jokes_React_App&title_color=facc15&text_color=ffffff&icon_color=22c55e&bg_color=134e4a&hide_border=true&locale=en" />
+</a>
+<a href="https://github.com/porpup/Hockey_Website">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=porpup&repo=Hockey_Website&title_color=facc15&text_color=ffffff&icon_color=22c55e&bg_color=134e4a&hide_border=true&locale=en" />
+</a>
