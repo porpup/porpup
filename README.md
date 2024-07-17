@@ -1,7 +1,7 @@
 My name is <b>Oleksandr Shyryayev</b> ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 ===========================================================================================================================================
 
-I am a Web Developer
+I am a <b>Web Developer</b>
 -------------
 
 With a background in dance and athletics, my approach to Full Stack Development is dynamic and results-oriented. Expertise in various programming languages and Agile, Scrum methodologies enhances my ability to deliver exceptional outcomes. Driven by the pursuit of new challenges, I am committed to continuous improvement and eager to contribute to innovative projects for professional growth.
