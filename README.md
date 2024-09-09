@@ -4,7 +4,7 @@ My name is <b>Oleksandr Shyryayev</b> ![](https://user-images.githubusercontent.
 I am a <b>Web Developer</b>
 -------------
 
-With a background in dance and athletics, my approach to Full Stack Development is dynamic and results-oriented. Expertise in various programming languages and Agile, Scrum methodologies enhances my ability to deliver exceptional outcomes. Driven by the pursuit of new challenges, I am committed to continuous improvement and eager to contribute to innovative projects for professional growth.
+With a solid foundation in programming and a results-driven approach to Full Stack Development, I excel at delivering high-quality solutions using various programming languages and Agile, Scrum methodologies. My passion for tackling new challenges fuels my commitment to continuous learning and improvement, and I'm eager to contribute to innovative projects that foster professional growth.
 
 *   🌍  I'm based in <b>Montréal, Canada</b>
 *   ✉️  You can contact me at <b>[porpup@hotmail.com](mailto:porpup@hotmail.com)</b>
